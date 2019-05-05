@@ -1,2 +1,3 @@
 # Git_Learning
 For Learning Git
+This repository was created for learning git...
